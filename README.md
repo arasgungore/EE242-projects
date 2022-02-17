@@ -1,6 +1,7 @@
 # ee242-projects
 
-Three C++ projects assigned for the Numerical Methods for Electrical Engineering (EE 242) course on Spring 2021 semester.
+Three C++ projects assigned for the Numerical Methods for Electrical Engineering (EE 242) course on Spring 2021 semester. These projects apply algorithms such as
+Gaussian elimination with partial pivoting (GEPP), normalized power iteration, inverse iteration, secant and bisection methods to solve linear and polynomial systems.
 
 
 
