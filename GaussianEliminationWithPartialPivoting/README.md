@@ -16,11 +16,11 @@ file.
 
 Your program should,
 
-- Read A matrix from A.txt file and b vector from b.txt file. Each line in a file represents a row.
-- Use dynamically allocated memory to store the matrix and the vector.
-- Print out an error message and quit if it detects that A is singular, (Don’t forget to consider the
+- read A matrix from A.txt file and b vector from b.txt file. Each line in a file represents a row,
+- use dynamically allocated memory to store the matrix and the vector,
+- print out an error message and quit if it detects that A is singular, (Don’t forget to consider the
 machine precision while detecting singularity.)
-- Print out the elements of the solution x (in the correct order) and write them in a text file.
+- print out the elements of the solution x (in the correct order) and write them in a text file.
 
 
 
