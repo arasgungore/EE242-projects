@@ -21,8 +21,8 @@ give notes as “the number of iterations exceeded the threshold.”
 
 ## Project Details
 
-- You have n+1 command line inputs for the coefficients of 𝑓(𝑥) = 𝑎<sub>𝑛</sub>𝑥<sup>𝑛</sup> + 𝑎<sub>𝑛-1</sub>𝑥<sup>𝑛-1</sup>
-+ ⋯ + 𝑎<sub>1</sub>𝑥 + 𝑎<sub>0</sub> in the order from 𝑎<sub>n</sub> to 𝑎<sub>0</sub>. Use dynamically allocated memory to store these.
+- You have n+1 command line inputs for the coefficients of 𝑓(𝑥) = 𝑎<sub>𝑛</sub>𝑥<sup>𝑛</sup> + 𝑎<sub>𝑛-1</sub>𝑥<sup>𝑛-1</sup> + ⋯ + 𝑎<sub>1</sub>𝑥 + 𝑎<sub>0</sub>
+in the order from 𝑎<sub>n</sub> to 𝑎<sub>0</sub>. Use dynamically allocated memory to store these.
 - You have 3 more command line arguments for the initial guesses 𝑥<sub>0</sub>, 𝑥<sub>1</sub> (𝑥<sub>1</sub> > 𝑥<sub>0</sub>),
   and the tolerance value 𝑡𝑜𝑙.
 
