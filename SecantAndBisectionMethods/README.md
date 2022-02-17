@@ -25,7 +25,3 @@ give notes as “the number of iterations exceeded the threshold.”
 in the order from 𝑎<sub>n</sub> to 𝑎<sub>0</sub>. Use dynamically allocated memory to store these.
 - You have 3 more command line arguments for the initial guesses 𝑥<sub>0</sub>, 𝑥<sub>1</sub> (𝑥<sub>1</sub> > 𝑥<sub>0</sub>),
   and the tolerance value 𝑡𝑜𝑙.
-
-**_Note:_** Please do not use functions or expressions for setting the output decimal precision. They truncate
-or round the result. This may cause false positive or false negatives (i.e. Do not use setprecision
-function). Show the result as it is.
