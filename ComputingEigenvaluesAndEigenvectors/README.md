@@ -10,10 +10,10 @@ the inverse iteration algorithm to find the largest and the smallest eigenvalues
 corresponding eigenvectors of a given matrix A, where A is a real square matrix. Using
 normalized power iteration, you can find the dominant eigenvalue of A with
 the corresponding eigenvector. The inverse iteration algorithm is equivalent to the power
-iteration method applied to 𝐴−^1. Therefore, using inverse iteration algorithm the
-smallest eigenvalue of A is the reciprocal of the dominant eigenvalue of 𝐴−^1 and the
+iteration method applied to 𝐴<sup>−1<sup>. Therefore, using inverse iteration algorithm the
+smallest eigenvalue of A is the reciprocal of the dominant eigenvalue of 𝐴<sup>−1<sup> and the
 corresponding eigenvector can be found. You should solve a system of linear equations
-instead of finding 𝐴−^1 directly. (**Hint: You can use your first projects to solve the linear
+instead of finding 𝐴<sup>−1<sup> directly. (**Hint: You can use your first projects to solve the linear
 system of equations, but this time you should write your program as an object-oriented one.**)
 
 Your program should read A from an input file and output the dominant eigenvalue, its
