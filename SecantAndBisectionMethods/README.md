@@ -31,7 +31,7 @@ in the order from 𝑎<sub>n</sub> to 𝑎<sub>0</sub>. Use dynamically allocate
 ## Run on terminal
 
 <code>
-g++ main.cpp -o test
-test 𝑎_𝑛 𝑎_{𝑛-1} ... 𝑎_0 𝑥_0 𝑥_1 𝑡𝑜𝑙
-(e.g. test 2 2 -7 1 -7 1.5 1.8 0.001)
+g++ main.cpp -o test;
+test 𝑎_𝑛 𝑎_{𝑛-1} ... 𝑎_0 𝑥_0 𝑥_1 𝑡𝑜𝑙;
+(e.g. test 2 2 -7 1 -7 1.5 1.8 0.001);
 </code>
