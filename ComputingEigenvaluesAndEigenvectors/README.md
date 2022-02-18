@@ -36,6 +36,7 @@ the third argument is the name of your output file,
 - calculate the eigenvalues and corresponding eigenvector and write them in a text file.
 
 
+
 ## About Object-Oriented Programming
 
 In this project, you will use matrices and matrix operations. In order to implement this
@@ -44,3 +45,12 @@ named Matrix, and implement all matrix operations such as multiplication, additi
 transpose, and solving a system of linear equations (LU factorization and backward
 substitution) as methods of this class. This way, you don’t need to have a lot of complex
 loops in your program.
+
+
+
+## Run on terminal
+
+```sh
+g++ main.cpp -std=c++11 -o test
+test A.txt 1e-6 X.txt
+```
