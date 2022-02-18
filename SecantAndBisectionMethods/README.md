@@ -30,8 +30,6 @@ in the order from 𝑎<sub>n</sub> to 𝑎<sub>0</sub>. Use dynamically allocate
 
 ## Run on terminal
 
-```sh
 <pre><code>g++ main.cpp -o test
 test 𝑎<sub>n</sub> 𝑎<sub>𝑛-1</sub> ... 𝑎<sub>0</sub> 𝑥<sub>0</sub> 𝑥<sub>1</sub> 𝑡𝑜𝑙
 (e.g. test 2 2 -7 1 -7 1.5 1.8 0.001)</code></pre>
-```
