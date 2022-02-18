@@ -30,3 +30,12 @@ machine precision while detecting singularity.)
 condition numbers for every given matrix. However, in the case of 2x2 matrices, your program
 is required to output the condition numbers using 1 - norm and infinity-norm. (You can print
 these on the screen; they are not required in a text file.)
+
+
+
+## Run on terminal
+
+```sh
+g++ main.cpp -o test
+test A.txt b.txt
+```
