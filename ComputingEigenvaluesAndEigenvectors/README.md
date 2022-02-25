@@ -48,7 +48,7 @@ loops in your program.
 
 
 
-## Run on terminal
+## Run on Terminal
 
 ```sh
 g++ main.cpp -std=c++11 -o test
