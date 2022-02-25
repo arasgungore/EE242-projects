@@ -33,7 +33,7 @@ these on the screen; they are not required in a text file.)
 
 
 
-## Run on terminal
+## Run on Terminal
 
 ```sh
 g++ main.cpp -o test
