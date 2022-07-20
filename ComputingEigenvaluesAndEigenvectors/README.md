@@ -1,6 +1,8 @@
 # Project 2: Computing Eigenvalues and Eigenvectors using Normalized
 # Power Iteration Algorithm and Inverse Iteration Algorithm
 
+This project was assigned for the Numerical Methods for Electrical Engineering (EE 242) course in the Spring 2021 semester.
+
 
 
 ## Run on Terminal
