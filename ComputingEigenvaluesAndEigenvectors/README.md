@@ -3,6 +3,15 @@
 
 
 
+## Run on Terminal
+
+```sh
+g++ main.cpp -std=c++11 -o test
+test A.txt 1e-6 X.txt
+```
+
+
+
 ## Project Goals
 
 In this project, you will be implementing the normalized power iteration algorithm and
@@ -45,12 +54,3 @@ named Matrix, and implement all matrix operations such as multiplication, additi
 transpose, and solving a system of linear equations (LU factorization and backward
 substitution) as methods of this class. This way, you don’t need to have a lot of complex
 loops in your program.
-
-
-
-## Run on Terminal
-
-```sh
-g++ main.cpp -std=c++11 -o test
-test A.txt 1e-6 X.txt
-```
