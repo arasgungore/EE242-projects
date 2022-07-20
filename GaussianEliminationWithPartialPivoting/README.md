@@ -1,5 +1,7 @@
 # Project 1: Gaussian Elimination with Partial Pivoting
 
+This project was assigned for the Numerical Methods for Electrical Engineering (EE 242) course in the Spring 2021 semester.
+
 
 
 ## Run on Terminal
