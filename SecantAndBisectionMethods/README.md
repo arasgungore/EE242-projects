@@ -2,6 +2,14 @@
 
 
 
+## Run on Terminal
+
+<pre><code>g++ main.cpp -o test
+test 𝑎<sub>n</sub> 𝑎<sub>𝑛-1</sub> ... 𝑎<sub>0</sub> 𝑥<sub>0</sub> 𝑥<sub>1</sub> 𝑡𝑜𝑙
+(e.g. test 2 2 -7 1 -7 1.5 1.8 0.001)</code></pre>
+
+
+
 ## Project Goals
 
 In this project, you will be implementing secant and bisection algorithms to solve 𝑓(𝑥) = 0 for
@@ -25,11 +33,3 @@ give notes as “the number of iterations exceeded the threshold.”
 in the order from 𝑎<sub>n</sub> to 𝑎<sub>0</sub>. Use dynamically allocated memory to store these.
 - You have 3 more command line arguments for the initial guesses 𝑥<sub>0</sub>, 𝑥<sub>1</sub> (𝑥<sub>1</sub> > 𝑥<sub>0</sub>),
   and the tolerance value 𝑡𝑜𝑙.
-
-
-
-## Run on Terminal
-
-<pre><code>g++ main.cpp -o test
-test 𝑎<sub>n</sub> 𝑎<sub>𝑛-1</sub> ... 𝑎<sub>0</sub> 𝑥<sub>0</sub> 𝑥<sub>1</sub> 𝑡𝑜𝑙
-(e.g. test 2 2 -7 1 -7 1.5 1.8 0.001)</code></pre>
